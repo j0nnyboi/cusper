@@ -28,7 +28,7 @@
     "dist/src/*"
   ],
   "keywords": [
-    "solana",
+    "safecoin",
     "blockchain",
     "errors",
     "custom program error",
